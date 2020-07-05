@@ -107,7 +107,7 @@
     "handlebars-runtime": "^1.0.12",
     "i18next": "^19.4.4",
     "i18next-browser-languagedetector": "^4.1.1",
-    "interactjs": "^1.9.13",
+    "interactjs": "^1.9.19",
     "jingle": "^3.0.3",
     "jingle-session": "^2.0.3",
     "jquery": "^3.5.1",
