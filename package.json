@@ -115,7 +115,7 @@
     "jxt-xmpp": "^3.3.0",
     "jxt-xmpp-types": "^3.0.0",
     "mini-css-extract-plugin": "^0.9.0",
-    "moment": "^2.25.3",
+    "moment": "^2.26.0",
     "node-sass": "^4.14.1",
     "otr": "github:sualko/otr#es6-modules",
     "precompile-handlebars": "^1.0.5",
