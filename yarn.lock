@@ -1047,10 +1047,10 @@ JSONStream@^1.0.4:
     jsonparse "^1.2.0"
     through ">=2.2.7 <3"
 
-abab@^2.0.0:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.3.tgz#623e2075e02eb2d3f2475e49f99c91846467907a"
-  integrity sha512-tsFzPpcttalNjFBCFMqsKYQcWxxen1pgJR56by//QwvJc4/OUS3kPOOttx2tSIfjsylB0pYu7f5D3K1RCxUnUg==
+abab@^2.0.3:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.5.tgz#c0b678fb32d60fc1219c784d6a826fe385aeb79a"
+  integrity sha512-9IK9EadsbHo6jLWIpxpR6pL0sazTXV6+SQv25ZB+F7Bj9mJNaOc4nCRabwd5M/JwmUa8idz6Eci6eKfJryPs6Q==
 
 abbrev@1:
   version "1.1.1"
@@ -8893,15 +8893,15 @@ strip-json-comments@2.0.1:
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
   integrity sha1-PFMZQukIwml8DsNEhYwobHygpgo=
 
-strophe.js@1.3.5:
-  version "1.3.5"
-  resolved "https://registry.yarnpkg.com/strophe.js/-/strophe.js-1.3.5.tgz#3a670d578edc3e27e200c4f63c208f92b34ad3be"
-  integrity sha512-258PeC2FieDMBtewJLXwmgtXmG2AI8eRJJnfOV1geUeQJui2nrRzu2feclG53PDbvUZrSP0eWcPAnraPuHjRAQ==
+strophe.js@1.4.2:
+  version "1.4.2"
+  resolved "https://registry.yarnpkg.com/strophe.js/-/strophe.js-1.4.2.tgz#ef25231239c3fd33ebfe5ee159c8a6a945a58d7e"
+  integrity sha512-jkyZQCZLm7Zgmra0zJKxpHPNIUncYj/e/eYfgxFoc5gwrWeHWigNBs0q7wtqhCiqG6Qxcf22PUpcyBq8cK+9ew==
   dependencies:
-    abab "^2.0.0"
+    abab "^2.0.3"
   optionalDependencies:
     ws "^7.0.0"
-    xmldom "^0.1.27"
+    xmldom "0.5.0"
 
 style-search@^0.1.0:
   version "0.1.0"
@@ -10073,10 +10073,10 @@ ws@~3.3.1:
     safe-buffer "~5.1.0"
     ultron "~1.1.0"
 
-xmldom@^0.1.27:
-  version "0.1.31"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.1.31.tgz#b76c9a1bd9f0a9737e5a72dc37231cf38375e2ff"
-  integrity sha512-yS2uJflVQs6n+CyjHoaBmVSqIDevTAWrzMmjG1Gc7h1qQ7uVozNhEPJAwZXWyGQ/Gafo3fCwrcaokezLPupVyQ==
+xmldom@0.5.0:
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.5.0.tgz#193cb96b84aa3486127ea6272c4596354cb4962e"
+  integrity sha512-Foaj5FXVzgn7xFzsKeNIde9g6aFBxTPi37iwsno8QvApmtg7KYrr+OPyRHcJF7dud2a5nGRBXK3n0dL62Gf7PA==
 
 xmlhttprequest-ssl@~1.5.4:
   version "1.5.5"
